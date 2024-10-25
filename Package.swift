@@ -15,13 +15,13 @@ let package = Package(
     dependencies: [],
     targets: [
         .binaryTarget(
-            name: "CameraManagerFrameWork", // .xcframework 타겟 참조
-            path: "Frameworks/CameraManagerFrameWork.xcframework" // .xcframework 경로
+            name: "CameraManagerFramework", // .xcframework 타겟 참조
+            path: "Frameworks/CameraManagerFramework.xcframework" // .xcframework 경로
         ),
         .target(
             name: "CameraManagerLibrary",
             dependencies: [
-                .target(name: "CameraManagerFrameWork") // .xcframework 링크
+                .target(name: "CameraManagerFramework") // .xcframework 링크
             ],
             path: "Sources/CameraManagerLibrary",
             resources: [
