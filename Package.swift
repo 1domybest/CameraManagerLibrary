@@ -1,6 +1,7 @@
 // swift-tools-version: 6.0
 import PackageDescription
 
+
 let package = Package(
     name: "CameraManagerLibrary",
     platforms: [
@@ -12,7 +13,9 @@ let package = Package(
             targets: ["CameraManagerLibrary"]
         ),
     ],
-    dependencies: [],
+    dependencies: [
+        .package(url: "https://github.com/1domybest/OtisLogManagerLibrary", from: "1.0.0") // OtisLogManagerLibrary 추가
+    ],
     targets: [
         .binaryTarget(
             name: "CameraManagerFrameWork", // .xcframework 타겟 참조
@@ -21,7 +24,8 @@ let package = Package(
         .target(
             name: "CameraManagerLibrary",
             dependencies: [
-                .target(name: "CameraManagerFrameWork") // .xcframework 링크
+                .target(name: "CameraManagerFrameWork"), // .xcframework 링크
+                .product(name: "OtisLogManagerLibrary", package: "OtisLogManagerLibrary") // OtisLogManagerLibrary 의존성 추가
             ],
             path: "Sources/CameraManagerLibrary",
             resources: [
