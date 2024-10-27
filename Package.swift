@@ -14,7 +14,6 @@ let package = Package(
         ),
     ],
     dependencies: [
-        .package(url: "https://github.com/1domybest/OtisLogManagerLibrary", from: "1.0.0") // OtisLogManagerLibrary 추가
     ],
     targets: [
         .binaryTarget(
@@ -25,7 +24,6 @@ let package = Package(
             name: "CameraManagerLibrary",
             dependencies: [
                 .target(name: "CameraManagerFrameWork"), // .xcframework 링크
-                .product(name: "OtisLogManagerLibrary", package: "OtisLogManagerLibrary") // OtisLogManagerLibrary 의존성 추가
             ],
             path: "Sources/CameraManagerLibrary",
             resources: [
