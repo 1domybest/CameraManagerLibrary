@@ -8542,8 +8542,8 @@
           },
           {
             "kind": "Function",
-            "name": "startSession",
-            "printedName": "startSession()",
+            "name": "initialize",
+            "printedName": "initialize()",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -8552,8 +8552,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:22CameraManagerFrameWork0aB0C12startSessionyyF",
-            "mangledName": "$s22CameraManagerFrameWork0aB0C12startSessionyyF",
+            "usr": "s:22CameraManagerFrameWork0aB0C10initializeyyF",
+            "mangledName": "$s22CameraManagerFrameWork0aB0C10initializeyyF",
             "moduleName": "CameraManagerFrameWork",
             "declAttributes": [
               "AccessControl",
@@ -9450,8 +9450,8 @@
           },
           {
             "kind": "Function",
-            "name": "pauseCamera",
-            "printedName": "pauseCamera(showThumbnail:)",
+            "name": "pauseCameraSession",
+            "printedName": "pauseCameraSession(showThumbnail:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -9466,8 +9466,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:22CameraManagerFrameWork0aB0C05pauseA013showThumbnailySb_tF",
-            "mangledName": "$s22CameraManagerFrameWork0aB0C05pauseA013showThumbnailySb_tF",
+            "usr": "s:22CameraManagerFrameWork0aB0C05pauseA7Session13showThumbnailySb_tF",
+            "mangledName": "$s22CameraManagerFrameWork0aB0C05pauseA7Session13showThumbnailySb_tF",
             "moduleName": "CameraManagerFrameWork",
             "declAttributes": [
               "AccessControl",

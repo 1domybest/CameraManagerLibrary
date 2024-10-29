@@ -68,7 +68,7 @@ extension CameraManagerFrameWork.CameraManager {
   public func findDeviceForMultiSession(withPosition position: AVFoundation.AVCaptureDevice.Position) -> AVFoundation.AVCaptureDevice?
   public func startCameraSession()
   public func stopRunningCameraSession()
-  public func pauseCamera(showThumbnail: Swift.Bool)
+  public func pauseCameraSession(showThumbnail: Swift.Bool)
   public func setShowThumbnail(isShow: Swift.Bool)
   public func startDisplayLink()
   public func stopDisplayLink()
@@ -189,7 +189,7 @@ extension CameraManagerFrameWork.CameraMetalView : MetalKit.MTKViewDelegate {
   public var displayLink: QuartzCore.CADisplayLink?
   public init(cameraOptions: CameraManagerFrameWork.CameraOptions)
   @objc deinit
-  public func startSession()
+  public func initialize()
   public func unreference()
   public func checkCameraPermission()
 }
