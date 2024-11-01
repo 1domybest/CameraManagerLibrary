@@ -2712,6 +2712,7 @@
           "Preconcurrency",
           "Custom",
           "AccessControl",
+          "RawDocComment",
           "ObjC"
         ],
         "superclassUsr": "c:objc(cs)UIView",
@@ -3824,6 +3825,7 @@
           "Preconcurrency",
           "Custom",
           "AccessControl",
+          "RawDocComment",
           "ObjC"
         ],
         "superclassUsr": "c:objc(cs)MTKView",
@@ -3942,6 +3944,13 @@
         "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CameraManagerFrameWork"
+      },
+      {
+        "kind": "Import",
+        "name": "LogManager",
+        "printedName": "LogManager",
         "declKind": "Import",
         "moduleName": "CameraManagerFrameWork"
       },
@@ -9805,177 +9814,177 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/onseoktae\/Documents\/GitHub\/CameraManagerFramework\/CameraManagerFrameWork\/CameraMananger\/CameraOptions.swift",
+      "filePath": "\/Users\/onseoktae\/Documents\/GitHub\/CameraManager\/CameraManagerFramework\/CameraManagerFrameWork\/CameraMananger\/CameraOptions.swift",
       "kind": "BooleanLiteral",
-      "offset": 2185,
+      "offset": 2449,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/onseoktae\/Documents\/GitHub\/CameraManagerFramework\/CameraManagerFrameWork\/CameraMananger\/CameraOptions.swift",
+      "filePath": "\/Users\/onseoktae\/Documents\/GitHub\/CameraManager\/CameraManagerFramework\/CameraManagerFrameWork\/CameraMananger\/CameraOptions.swift",
       "kind": "BooleanLiteral",
-      "offset": 2256,
+      "offset": 2520,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/onseoktae\/Documents\/GitHub\/CameraManagerFramework\/CameraManagerFrameWork\/CameraMananger\/CameraOptions.swift",
+      "filePath": "\/Users\/onseoktae\/Documents\/GitHub\/CameraManager\/CameraManagerFramework\/CameraManagerFrameWork\/CameraMananger\/CameraOptions.swift",
       "kind": "BooleanLiteral",
-      "offset": 2302,
+      "offset": 2566,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/onseoktae\/Documents\/GitHub\/CameraManagerFramework\/CameraManagerFrameWork\/CameraMananger\/CameraDevice.swift",
+      "filePath": "\/Users\/onseoktae\/Documents\/GitHub\/CameraManager\/CameraManagerFramework\/CameraManagerFrameWork\/CameraMananger\/CameraDevice.swift",
       "kind": "BooleanLiteral",
-      "offset": 4024,
+      "offset": 4008,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/onseoktae\/Documents\/GitHub\/CameraManagerFramework\/CameraManagerFrameWork\/CameraMananger\/CameraDevice.swift",
+      "filePath": "\/Users\/onseoktae\/Documents\/GitHub\/CameraManager\/CameraManagerFramework\/CameraManagerFrameWork\/CameraMananger\/CameraDevice.swift",
       "kind": "BooleanLiteral",
-      "offset": 5403,
+      "offset": 5230,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/onseoktae\/Documents\/GitHub\/CameraManagerFramework\/CameraManagerFrameWork\/Metal\/CameraMetalView.swift",
+      "filePath": "\/Users\/onseoktae\/Documents\/GitHub\/CameraManager\/CameraManagerFramework\/CameraManagerFrameWork\/Metal\/CameraMetalView.swift",
       "kind": "BooleanLiteral",
-      "offset": 762,
+      "offset": 920,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/onseoktae\/Documents\/GitHub\/CameraManagerFramework\/CameraManagerFrameWork\/Metal\/CameraMetalView.swift",
+      "filePath": "\/Users\/onseoktae\/Documents\/GitHub\/CameraManager\/CameraManagerFramework\/CameraManagerFrameWork\/Metal\/CameraMetalView.swift",
       "kind": "BooleanLiteral",
-      "offset": 803,
+      "offset": 961,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/onseoktae\/Documents\/GitHub\/CameraManagerFramework\/CameraManagerFrameWork\/Metal\/CameraMetalView.swift",
+      "filePath": "\/Users\/onseoktae\/Documents\/GitHub\/CameraManager\/CameraManagerFramework\/CameraManagerFrameWork\/Metal\/CameraMetalView.swift",
       "kind": "BooleanLiteral",
-      "offset": 837,
+      "offset": 995,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/onseoktae\/Documents\/GitHub\/CameraManagerFramework\/CameraManagerFrameWork\/Metal\/CameraMetalView.swift",
+      "filePath": "\/Users\/onseoktae\/Documents\/GitHub\/CameraManager\/CameraManagerFramework\/CameraManagerFrameWork\/Metal\/CameraMetalView.swift",
       "kind": "IntegerLiteral",
-      "offset": 916,
+      "offset": 1074,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/onseoktae\/Documents\/GitHub\/CameraManagerFramework\/CameraManagerFrameWork\/Metal\/CameraMetalView.swift",
+      "filePath": "\/Users\/onseoktae\/Documents\/GitHub\/CameraManager\/CameraManagerFramework\/CameraManagerFrameWork\/Metal\/CameraMetalView.swift",
       "kind": "BooleanLiteral",
-      "offset": 1025,
+      "offset": 1183,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/onseoktae\/Documents\/GitHub\/CameraManagerFramework\/CameraManagerFrameWork\/CameraMananger\/CameraManager.swift",
+      "filePath": "\/Users\/onseoktae\/Documents\/GitHub\/CameraManager\/CameraManagerFramework\/CameraManagerFrameWork\/CameraMananger\/CameraManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 1835,
+      "offset": 1977,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/onseoktae\/Documents\/GitHub\/CameraManagerFramework\/CameraManagerFrameWork\/CameraMananger\/CameraManager.swift",
+      "filePath": "\/Users\/onseoktae\/Documents\/GitHub\/CameraManager\/CameraManagerFramework\/CameraManagerFrameWork\/CameraMananger\/CameraManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 2027,
+      "offset": 2169,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/onseoktae\/Documents\/GitHub\/CameraManagerFramework\/CameraManagerFrameWork\/CameraMananger\/CameraManager.swift",
+      "filePath": "\/Users\/onseoktae\/Documents\/GitHub\/CameraManager\/CameraManagerFramework\/CameraManagerFrameWork\/CameraMananger\/CameraManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 5476,
+      "offset": 5805,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/onseoktae\/Documents\/GitHub\/CameraManagerFramework\/CameraManagerFrameWork\/CameraMananger\/CameraManager.swift",
+      "filePath": "\/Users\/onseoktae\/Documents\/GitHub\/CameraManager\/CameraManagerFramework\/CameraManagerFrameWork\/CameraMananger\/CameraManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 5662,
+      "offset": 5991,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/onseoktae\/Documents\/GitHub\/CameraManagerFramework\/CameraManagerFrameWork\/CameraMananger\/CameraManager.swift",
+      "filePath": "\/Users\/onseoktae\/Documents\/GitHub\/CameraManager\/CameraManagerFramework\/CameraManagerFrameWork\/CameraMananger\/CameraManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 6599,
+      "offset": 6948,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/onseoktae\/Documents\/GitHub\/CameraManagerFramework\/CameraManagerFrameWork\/CameraMananger\/CameraManager.swift",
+      "filePath": "\/Users\/onseoktae\/Documents\/GitHub\/CameraManager\/CameraManagerFramework\/CameraManagerFrameWork\/CameraMananger\/CameraManager.swift",
       "kind": "FloatLiteral",
-      "offset": 6768,
+      "offset": 7117,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/onseoktae\/Documents\/GitHub\/CameraManagerFramework\/CameraManagerFrameWork\/CameraMananger\/CameraManager.swift",
+      "filePath": "\/Users\/onseoktae\/Documents\/GitHub\/CameraManager\/CameraManagerFramework\/CameraManagerFrameWork\/CameraMananger\/CameraManager.swift",
       "kind": "FloatLiteral",
-      "offset": 6906,
+      "offset": 7255,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/onseoktae\/Documents\/GitHub\/CameraManagerFramework\/CameraManagerFrameWork\/CameraMananger\/CameraManager.swift",
+      "filePath": "\/Users\/onseoktae\/Documents\/GitHub\/CameraManager\/CameraManagerFramework\/CameraManagerFrameWork\/CameraMananger\/CameraManager.swift",
       "kind": "FloatLiteral",
-      "offset": 7044,
+      "offset": 7393,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/onseoktae\/Documents\/GitHub\/CameraManagerFramework\/CameraManagerFrameWork\/CameraMananger\/CameraManager.swift",
+      "filePath": "\/Users\/onseoktae\/Documents\/GitHub\/CameraManager\/CameraManagerFramework\/CameraManagerFrameWork\/CameraMananger\/CameraManager.swift",
       "kind": "FloatLiteral",
-      "offset": 7182,
+      "offset": 7531,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/onseoktae\/Documents\/GitHub\/CameraManagerFramework\/CameraManagerFrameWork\/CameraMananger\/CameraManager.swift",
+      "filePath": "\/Users\/onseoktae\/Documents\/GitHub\/CameraManager\/CameraManagerFramework\/CameraManagerFrameWork\/CameraMananger\/CameraManager.swift",
       "kind": "FloatLiteral",
-      "offset": 7327,
+      "offset": 7676,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/onseoktae\/Documents\/GitHub\/CameraManagerFramework\/CameraManagerFrameWork\/CameraMananger\/CameraManager.swift",
+      "filePath": "\/Users\/onseoktae\/Documents\/GitHub\/CameraManager\/CameraManagerFramework\/CameraManagerFrameWork\/CameraMananger\/CameraManager.swift",
       "kind": "FloatLiteral",
-      "offset": 7467,
+      "offset": 7816,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/onseoktae\/Documents\/GitHub\/CameraManagerFramework\/CameraManagerFrameWork\/CameraMananger\/CameraManager.swift",
+      "filePath": "\/Users\/onseoktae\/Documents\/GitHub\/CameraManager\/CameraManagerFramework\/CameraManagerFrameWork\/CameraMananger\/CameraManager.swift",
       "kind": "FloatLiteral",
-      "offset": 7607,
+      "offset": 7956,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/onseoktae\/Documents\/GitHub\/CameraManagerFramework\/CameraManagerFrameWork\/CameraMananger\/CameraManager.swift",
+      "filePath": "\/Users\/onseoktae\/Documents\/GitHub\/CameraManager\/CameraManagerFramework\/CameraManagerFrameWork\/CameraMananger\/CameraManager.swift",
       "kind": "FloatLiteral",
-      "offset": 7747,
+      "offset": 8096,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/onseoktae\/Documents\/GitHub\/CameraManagerFramework\/CameraManagerFrameWork\/CameraMananger\/CameraManager.swift",
+      "filePath": "\/Users\/onseoktae\/Documents\/GitHub\/CameraManager\/CameraManagerFramework\/CameraManagerFrameWork\/CameraMananger\/CameraManager.swift",
       "kind": "FloatLiteral",
-      "offset": 7857,
+      "offset": 8206,
       "length": 4,
       "value": "30.0"
     },
     {
-      "filePath": "\/Users\/onseoktae\/Documents\/GitHub\/CameraManagerFramework\/CameraManagerFrameWork\/CameraMananger\/CameraManager.swift",
+      "filePath": "\/Users\/onseoktae\/Documents\/GitHub\/CameraManager\/CameraManagerFramework\/CameraManagerFrameWork\/CameraMananger\/CameraManager.swift",
       "kind": "FloatLiteral",
-      "offset": 7978,
+      "offset": 8327,
       "length": 4,
       "value": "30.0"
     }

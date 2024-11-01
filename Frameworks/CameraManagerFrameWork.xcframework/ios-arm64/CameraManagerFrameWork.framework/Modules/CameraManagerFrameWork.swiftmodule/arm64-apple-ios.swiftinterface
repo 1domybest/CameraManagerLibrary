@@ -6,6 +6,7 @@ import AVFoundation
 import CoreMedia
 import CoreVideo
 import Foundation
+import LogManager
 import MetalKit
 import QuartzCore
 import Swift
