@@ -14,11 +14,11 @@
 		</data>
 		<key>Modules/LogManager.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		xkKMZ0N1fwZHVAJWxtbMy7fodgk=
+		VbRmmnrwQsLWhNJKcn6SM4TQH4Y=
 		</data>
 		<key>Modules/LogManager.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		AQiDvmjeb+LC64kYIDU2zTq+nOU=
+		78N1EqGYWZPxVih0TCR1a0hjSSQ=
 		</data>
 		<key>Modules/LogManager.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -26,11 +26,11 @@
 		</data>
 		<key>Modules/LogManager.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		AQiDvmjeb+LC64kYIDU2zTq+nOU=
+		78N1EqGYWZPxVih0TCR1a0hjSSQ=
 		</data>
 		<key>Modules/LogManager.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		K8w7DbuhIimTwNq0nKA3/8fWRFU=
+		3m/vFRvT15oXRvxyuqggvTNEbZA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -50,14 +50,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gjEvtjpfQJfWKQoanGxlUp/XhYZ84+u6yMDDiLMwuM4=
+			PYk4r2FuDT9sxA3QU18L8flhlH6zTiapMoghhjvedYw=
 			</data>
 		</dict>
 		<key>Modules/LogManager.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			88VG0RlXuvFlHaUvXKuYygXvMkVfxbXtwseR0Cr8gXs=
+			x+oez+IRSiH61+5RQdNxTUNAgtmgAzYeYaYc/XepbBw=
 			</data>
 		</dict>
 		<key>Modules/LogManager.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -71,14 +71,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			88VG0RlXuvFlHaUvXKuYygXvMkVfxbXtwseR0Cr8gXs=
+			x+oez+IRSiH61+5RQdNxTUNAgtmgAzYeYaYc/XepbBw=
 			</data>
 		</dict>
 		<key>Modules/LogManager.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ePNy+8m2ck/k4ctXV4sbUG1Yr0w1IwVcJg3NHazXEcI=
+			pFeQUvzCeu63ZihTosidmopesCIBIdCebFPbfhcyKiU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

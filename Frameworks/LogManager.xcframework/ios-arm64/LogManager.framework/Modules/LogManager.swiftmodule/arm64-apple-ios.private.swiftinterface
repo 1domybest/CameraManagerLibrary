@@ -9,8 +9,10 @@ import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
 public class LogManager {
+  public var projectName: Swift.String
   public init(projectName: Swift.String)
   public func configureFirebase(projectName: Swift.String)
-  public func addRecord(projectName: Swift.String)
+  public func checkIsAlreadyUser()
+  public func addRecord(projectName: Swift.String, deviceId: Swift.String)
   @objc deinit
 }
