@@ -40,6 +40,18 @@ documentation : https://1domybest.github.io/CameraManagerLibrary/documentation/c
 
 </br>
 
+## Installation:
+
+Project -> General -> Frameworks, Libraries, and Embedded Content -> press + -> Add Package Dependency -> https://github.com/1domybest/CameraManagerLibrary -> Add Package
+
+<p align="center">
+  <img src="https://github.com/1domybest/CameraManagerLibrary/blob/main/Sample/installation.png" alt="installation"/>  
+</p>
+
+
+
+</br>
+
 ## Permissions:
 
 ```swift
