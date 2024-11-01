@@ -7,18 +7,36 @@
 
 
 <p align="center">
-A camera manager library that makes it easy to use and customize all camera features.
   
+A camera manager library that makes it easy to use and customize all camera features.
+
 documentation : https://1domybest.github.io/CameraManagerLibrary/documentation/cameramanagerframework/
+
+> If you're interested in learning more about me, feel free to visit my profile [here!](https://github.com/1domybest)"😻
 </p>
 
+<br>
 
 ## Sample Code
 
-## PreView
+[OTIS_CameraManager_Example](https://github.com/1domybest/OTIS_CameraManager_Example)
+
+
+<br>
+
+## SingleCamera PreView
 <p align="center">
-  
+  <img src="https://github.com/1domybest/CameraManagerLibrary/blob/main/Sample/SingleCamera.jpg" alt="SingleCamera" height="500" width="281" />    
 </p>
+
+
+## MultiCamera PreView
+<p align="center">
+  <img src="https://github.com/1domybest/CameraManagerLibrary/blob/main/Sample/MultiCamera.jpg" alt="MultiCamera" height="500" width="281" />  
+</p>
+
+
+>> **Note**: you can see more sample gif or pic [here](https://github.com/1domybest/CameraManagerLibrary/tree/main/Sample)
 
 </br>
 
@@ -33,7 +51,9 @@ or
 
 **Go to Targets in Project -> Info -> Custom IOS Target Properties -> Press + Button -> Write down "Privacy - Camera Usage Description"**
 
-// 설정사진
+<p align="center">
+  <img align="center" src="https://github.com/1domybest/CameraManagerLibrary/blob/main/Sample/permission.png" alt="permission"/>
+</p>
 
 
 
